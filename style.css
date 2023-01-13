@@ -5,7 +5,7 @@
 body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 10px;
-	color: #666;
+	color: #333;
 	width: 400px;
 	margin: 0 auto;
 	display: flex;
@@ -21,7 +21,7 @@ h1{
 .counter-preview{
 	font-size: 8rem;
 	font-weight: bold;
-	color: #666;
+	color: #333;
 }
 button{
 	color: #fff;
@@ -34,11 +34,14 @@ button{
 	margin-left: 1rem;
 }
 .decrement{
-	background-color: #eda0ab;
+background-color: #4caf50;
+/*background-color: #eda0ab;*/
 }
 .reset{
-background-color: #5fba8e;
+background-color: #f44336;f94d66
+/*background-color: #5fba8e;*/
 }
 .increment{
-background-color: #91cbf0;
+background-color: #2196f3;
+/*background-color: #91cbf0;*/
 }
